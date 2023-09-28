@@ -1,3 +1,4 @@
 # Bitirme-Projeleri
- 1. Bitirme Projesi : Mayın Tarlası Oyunu
+ Bu repoda  Bootcamp boyunca yapmış olduğumuz projeleri yayınlayacağım.
+ 1. Mayın Tarlası
     
