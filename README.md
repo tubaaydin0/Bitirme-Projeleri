@@ -1,2 +1,3 @@
 # Bitirme-Projeleri
- PatikaUygulama
+ 1. Bitirme Projesi : Mayın Tarlası Oyunu
+    
