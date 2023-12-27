@@ -1,2 +1,0 @@
- Mayın Tarlası
-    
